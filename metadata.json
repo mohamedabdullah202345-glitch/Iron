@@ -1,0 +1,6 @@
+{
+  "name": "IRON — Discipline & Streak Tracker (Flutter)",
+  "description": "Stoic daily discipline, habit streak tracker, focus timer, and rank progression with complete Flutter source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
